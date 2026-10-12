@@ -19,7 +19,7 @@
 
 ```r
 # 安装依赖
-install.packages(c("tidyverse", "data.table", "slider", "stringr"))
+install.packages(c("tidyverse", "data.table", "slider"))
 
 # data.table 解法
 source("data.table-solutions.R")
